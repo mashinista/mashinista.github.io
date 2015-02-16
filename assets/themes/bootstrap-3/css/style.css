@@ -2,3 +2,7 @@
 h1, .h1 {
 font-size: 42px;
 }
+#footer{
+  position:fixed;
+  bottom:0
+  }
